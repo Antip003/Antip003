@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antip003&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=0d1117)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antip003&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=2F329F)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antip003&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117)
 
