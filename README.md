@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antip003&theme=radical&show_icons=true&disable_animations)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antip003&theme=radical&show_icons=true&disable_animations&hide_rank)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antip003&layout=compact&theme=radical&disable_animations)
 
